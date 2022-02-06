@@ -1,7 +1,7 @@
 items:
   - text: o nas
-    url: "o-nas"
+    url: "/o-nas"
   - text: co robimy
-    url: "co-robimy"
+    url: "/co-robimy"
   - text: realizacje
     url: /realizacje
